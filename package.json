@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://yenniferhurtado.github.io/github-user-react/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^1.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
